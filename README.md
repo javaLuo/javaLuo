@@ -1,4 +1,9 @@
-### Hi there 👋
+### 嘿，很高兴见到你 👋
+
+我是做前端开发的，React和Vue是我经常使用的框架，我认为React Hooks实在是太TM难用了，我很期待Vue3.0。<br/>
+我也希望能静下心来研究一些3D的技术，着色器网上都没有什么教程，感觉这是一条艰难而漫长的道路。<br/><br/>
+😄 有什么开源项目需要帮忙吗，我可以在晚上贡献代码<br/>
+💬 请立即给我发消息：<a href="mailto:376693576@qq.com" target="_blank">376693576@qq.com</a>
 
 <!--
 **javaLuo/javaLuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
