@@ -4,7 +4,7 @@
 我希望能静下心做一些真正的作品。
 
 💬 有什么需要帮忙的吗？<br/>
-📫 请立即给我发消息：<a href="mailto:376693576@qq.com" target="_blank">376693576@qq.com</a>
+📫 请给我留言
 
 <!--
 **javaLuo/javaLuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
